@@ -1,153 +1,411 @@
 [
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app",
         {
-            "state": "n",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508740092998,
             "changeTime": 1508740092998,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main",
         {
-            "state": "n",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508740092999,
             "changeTime": 1508740092999,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default",
         {
             "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1508741965730,
-            "changeTime": 1508741965730,
-            "contentHash": "1a6d5d5caad65d9603cbde6c2212ee394b0a48ae"
+            "modifiedTime": 1508750842767,
+            "changeTime": 1508750842767,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1508740092999,
-            "changeTime": 1508740092999,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation",
-        {
-            "state": "n",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation",
-            "isDirectory": true,
+            "modifiedTime": 1508750566937,
+            "changeTime": 1508750566937,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1508740794322,
-            "changeTime": 1508740794322,
-            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
-            "isWorkspace": true,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Geolocation__c.field-meta.xml",
-        {
             "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Geolocation__c.field-meta.xml",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1508749745426,
+            "changeTime": 1508749745426,
+            "contentHash": "1fbc646e6c04a28e7b46f561d5a9839ae99ccf40",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Geolocation__c.field-meta.xml",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Geolocation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 406,
             "modifiedTime": 1508741965727,
             "changeTime": 1508741965727,
-            "contentHash": "53b4d0ed2a2a81df0f3fc5430aef4cb95ac2fd81"
+            "contentHash": "53b4d0ed2a2a81df0f3fc5430aef4cb95ac2fd81",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1508741965731,
             "changeTime": 1508741965731,
-            "contentHash": "9972365f9e9a37425a3860db08e95bdb9694fc85"
+            "contentHash": "9972365f9e9a37425a3860db08e95bdb9694fc85",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508741965727,
             "changeTime": 1508741965727,
-            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67"
+            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508741965725,
             "changeTime": 1508741965725,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508741965725,
             "changeTime": 1508741965725,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
-            "sourcePath": "D:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508741965731,
             "changeTime": 1508741965731,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1508750093934,
+            "changeTime": 1508750093934,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1508750524116,
+            "changeTime": 1508750524116,
+            "contentHash": "b400c490efd53c7d7befdf41bbd75c867489d356",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1508750093934,
+            "changeTime": 1508750093934,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1508750566958,
+            "changeTime": 1508750566958,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 165,
+            "modifiedTime": 1508750600942,
+            "changeTime": 1508750600942,
+            "contentHash": "7443426ece5bc685396dea5b472aa94c874fb670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1508750566947,
+            "changeTime": 1508750566947,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 107,
+            "modifiedTime": 1508750617431,
+            "changeTime": 1508750617431,
+            "contentHash": "a5c9b9b3a4ca13e6f26fff87b25355434a0e9dfb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1508750566951,
+            "changeTime": 1508750566951,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1508750566955,
+            "changeTime": 1508750566955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1508750566959,
+            "changeTime": 1508750566959,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9811,
+            "modifiedTime": 1508750842744,
+            "changeTime": 1508750842744,
+            "contentHash": "0ceb45ad94897c9a6da2cc36c56d2b0945648ac3"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9811,
+            "modifiedTime": 1508750842751,
+            "changeTime": 1508750842751,
+            "contentHash": "0c9c9c9aa6f87f0d45313093627f005cf782e974"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 269,
+            "modifiedTime": 1508750842754,
+            "changeTime": 1508750842754,
+            "contentHash": "284d2b33c2f1af95e9bd2ff95e0beb3a7711dd31"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17256,
+            "modifiedTime": 1508750842771,
+            "changeTime": 1508750842771,
+            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1508750842775,
+            "changeTime": 1508750842775,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4348,
+            "modifiedTime": 1508750842779,
+            "changeTime": 1508750842779,
+            "contentHash": "1611ea7c757a3c2218f51170e50213ef4e3c1bdd"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4686,
+            "modifiedTime": 1508750842784,
+            "changeTime": 1508750842784,
+            "contentHash": "6f97de2209ac63c6927c2dfbe6eb517f167df505"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1508750842751,
+            "changeTime": 1508750842751,
+            "contentHash": "6992b64f449b11468408599bd49fb739fae29d92"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1508750842754,
+            "changeTime": 1508750842754,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "d:\\Atul data bkp\\Playground\\SFDX\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1508750842784,
+            "changeTime": 1508750842784,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
